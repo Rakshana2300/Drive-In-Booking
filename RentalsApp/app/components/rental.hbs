@@ -1,0 +1,15 @@
+<article class="rental">
+    <div class="details">
+      <LinkTo @route="rental" @model={{@rental.id}}>
+        <h3 class="rentalheader">{{@rental.title}}</h3>
+      </LinkTo>
+      <p class="summary">
+      <Rental::Image src={{@rental.image}} alt="An image of {{@rental.title}}"/>  
+      {{@rental.description}}
+     <h4>{{@rental.subheading}}</h4>
+     <!--<ul><li class="facilities">Swimming pool</li>  <li class="facilities">Free WiFi</li>  <li class="facilities">Airport shuttle</li>  <li class="facilities">Family rooms</li>  <li class="facilities">Free parking</li>  <li class="facilities">Fitness centre</li>  <li class="facilities">Bar</li> </ul>-->
+     {{@rental.subdesc}}</p>
+    </div>  
+  
+  
+</article>

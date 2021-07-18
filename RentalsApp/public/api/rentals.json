@@ -1,0 +1,46 @@
+{
+    "data":[
+        {
+            "type":"rentals",
+            "id":"ITC Grand Chola",
+            "attributes":{
+                "title": "ITC Grand Chola",
+                "image":
+                  "https://cf.bstatic.com/xdata/images/hotel/max1280x900/44650311.jpg?k=80a73dfb02a3c3b09500b81fb08c106659681b26e6f3fa3ebf790ee3595aa205&o=&hp=1",
+                "description":
+                  "Situated along Mount Road in Chennai, ITC Grand Chola is 8 km from the Chennai International Airport. It features 10 dining options and an outdoor swimming pool and a fitness centre. The best stay ever! Great place to completely spoil yourself. No need to leave the hotel. There are amazing restaurants, cafes, pools.",
+                "subheading": "Most popular facilities",
+                "subdesc":
+                  ["Swimming pool  ","Free WiFi  ","Airport shuttle","Family rooms","Free parking","Fitness centre","Bar"]
+            }
+        },
+        {
+            "type":"rentals",
+            "id":"Novotel Chennai Chamiers Road",
+            "attributes":{
+                "title": "Novotel Chennai Chamiers Road",
+                "image":
+                  "https://cf.bstatic.com/xdata/images/hotel/max1280x900/166059045.jpg?k=da7d357e11fb07ca2a6d0a752efe1a818454a7ce214a17fea8df471b3d6b0463&o=&hp=1",
+                "description":
+                  "Novotel Chennai Chamiers Road - An Accor Brand is located in the city centre near Anna Salai. We didn't get to stay very long - we only stayed one night and we were out for most of the day. However, we were very happy with the room and the hotel's staff and service.",
+                "subheading": "Most popular facilities",
+                "subdesc":
+                  ["Swimming pool  ","Free WiFi  ","Airport shuttle","Free parking","Fitness centre","Bar"]
+            }
+        },
+        {
+            "type":"rentals",
+            "id":"ibis Chennai City Centre",
+            "attributes":{
+                "title": "ibis Chennai City Centre",
+                "image":
+                  "https://cf.bstatic.com/xdata/images/hotel/max1280x900/252174338.jpg?k=6e727b524a4319ef47d9dc9d1fd839d62a62a363241e6fafabd3f90576e34df9&o=&hp=1",
+                "description":
+                  "Located on Anna Salai Road, opposite Metro Station, ibis Chennai City Centre - An Accor Brand is 20 minutes by Metro to the Chennai Airport. The hotel features a well-equipped fitness center, ‘The Hub’ lobby level bar and ‘Spice It’ Multi-cuisine 24 hours restaurant with the longest breakfast from 4 am to noon.",
+                "subheading": "Most popular facilities",
+                "subdesc":
+                  ["Swimming pool  ","Free WiFi  ","Airport shuttle","Free parking","Fitness centre","Bar"]
+            }
+        }
+    ]
+}
