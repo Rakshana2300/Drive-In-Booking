@@ -9,4 +9,6 @@ export default DS.Model.extend({
   description: DS.attr('string'),
   subheading: DS.attr('string'),
   subdesc: DS.attr('string'),
+  amount: DS.attr('string'),
+  rooms: DS.attr('string'),
 });
